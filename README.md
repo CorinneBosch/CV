@@ -8,7 +8,7 @@ As Full-Stack junior developer with an ever-curious mind and a creative backgrou
 
 Discovering coding somewhat by coincidence while pursuing my interest in UX/UI design, I got instantly hooked with the challenging, problem-solving and forceful nature of this craft and its exciting community. I am passionate about writing high-quality, test-driven and reusable code, to positively impact others. 
 
-After learning so much at a rapid pace at [Makers Academy](https://makers.tech), I am keen to continue learning new technologies. I am looking for a supportive culture that values open communication, where I can contribute to developing inclusive platforms.
+After learning so much at a rapid pace at [Makers Academy](https://makers.tech), I am keen to continue learning new technologies and flourish as a developer. I am looking for a supportive culture that values open communication, where I can contribute to developing inclusive platforms.
 
 ## Languages, Libraries & Frameworks:
 
