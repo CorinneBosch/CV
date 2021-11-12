@@ -94,7 +94,8 @@ Makers is a highly selective coding Bootcamp teaching Full-stack Software Develo
 
 <!-- &ensp; &emsp; -->
 
-- Culinary Arts & Hospitality with [EFZ](https://www.berufsberatung.ch/dyn/show/1922) Degree
+- Culinary Arts & Hospitality Degree
+<!-- -  [EFZ](https://www.berufsberatung.ch/dyn/show/1922) Degree -->
 
 ## <a name="interests">Interests</a>
 
