@@ -55,10 +55,9 @@ After learning so much at a rapid pace at [Makers Academy](https://makers.tech),
 
 **Kitchen Coordinator** | [The Greenhouse](https://instagram.com/greenhousemayfair) & [Kitchen Table](https://instagram.com/kitchentable1) (June 2019 - June 2021) 
 
-My role as Kitchen Coordinator included a wide range of responsibilities from managing digital platforms, stakeholder man
-agement, and event planning. During covid, I influenced pivot and launch an at-home menu, to experience Michelin-star fine dining in the comfort of our guests home.
+My role as Kitchen Coordinator included a wide range of responsibilities from managing digital platforms, stakeholder management, and event planning. During covid, I influenced pivot and launch an at-home menu, to experience Michelin-star fine dining in the comfort of our guests home.
 
-- Developed,  managed and maintained an at-home-dining digital marketing campaign, starting with 7 orders a week to soon reaching full capacity at 180 orders weekly.
+- Developed,  managed and maintained an at-home-dining digital marketing campaign, starting with 7 orders a week - to soon reaching full capacity at 180 orders weekly.
 - Commissioned consistent content creation between chefs and food photographers, increased social media engagement by 32%.
 - Maintained close relationships with suppliers, allowing us to serve ingredients uniquely to our restaurant.
 - Planned and coordinated successful pop-up events in Athens, Malta, Mallorca, Windsor and several locations around London. 
