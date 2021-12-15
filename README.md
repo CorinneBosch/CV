@@ -118,7 +118,7 @@ Makers is a highly selective coding Bootcamp teaching Full-stack Software Develo
 
 ## <a name="contact">Where to find me</a>
 
-[![Linkedin profile](https://img.shields.io/badge/LinkedIn-Corinne%20Bösch-0077B5?style=social&logo=linkedin&?labelColor=fff)](https://www.linkedin.com/in/corinne-b%C3%B6sch-387b52206/) get in touch about work opportunities ☕️ 👩🏻‍💻 💼\
+[![Linkedin profile](https://img.shields.io/badge/LinkedIn-Corinne%20Bösch-0077B5?style=social&logo=linkedin&?labelColor=fff)](https://www.linkedin.com/in/corinne-b%C3%B6sch) get in touch about work opportunities ☕️ 👩🏻‍💻 💼\
 [![Codewars](https://img.shields.io/badge/Codewars-%40cococodes-B1361E?style=social&logo=codewars&?labelColor=white)](https://www.codewars.com/users/CocoCodes)    challenge me on codewars 🛡 🌱 🏰\
 [![Instagram page](https://img.shields.io/badge/Instagram-%40thestoryofcorinne-E4405F?style=social&logo=instagram)](https://www.instagram.com/thestoryofcorinne/)  food styling & my impressions of the world in song titles 🌃 🌵🍸
 
