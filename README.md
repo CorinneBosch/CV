@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
 
-Hello there!👋
+Hello there! 👋
 
 As Full-Stack junior developer with an ever-curious mind and a creative background in Michelin-star fine dining, I am most comfortable out of my comfort zone. 
 
@@ -121,7 +121,8 @@ Makers is a highly selective coding Bootcamp teaching Full-stack Software Develo
 
 [![Linkedin profile](https://img.shields.io/badge/LinkedIn-Corinne%20Bösch-0077B5?style=social&logo=linkedin&?labelColor=fff)](https://www.linkedin.com/in/corinne-b%C3%B6sch) get in touch about work opportunities ☕️ 👩🏻‍💻 💼\
 [![Codewars](https://img.shields.io/badge/Codewars-%40cococodes-B1361E?style=social&logo=codewars&?labelColor=white)](https://www.codewars.com/users/CocoCodes)    challenge me on codewars 🛡 🌱 🏰\
-[![Instagram page](https://img.shields.io/badge/Instagram-%40thestoryofcorinne-E4405F?style=social&logo=instagram)](https://www.instagram.com/thestoryofcorinne/)  food styling & my impressions of the world in song titles 🌃 🌵🍸
+[![Instagram page](https://img.shields.io/badge/Instagram-%40thestoryofcorinne-E4405F?style=social&logo=instagram)](https://www.instagram.com/thestoryofcorinne/)  food styling & my impressions of the world in song titles 🌃 🌵🍸\
+[![Gmail](https://img.shields.io/badge/Gmail-corinne.boesch@gmail.com-D14836?style=social&logo=Gmail&?logoColor=white)](mailto:corinne.boesch@gmail.com) email me 📇 ✉️ 📬
 
 
 <!-- - Food Blog: [TasteHuntress](http://tastehuntress.com/) -->
