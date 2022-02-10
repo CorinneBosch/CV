@@ -75,7 +75,7 @@ My role as Kitchen Coordinator included a wide range of responsibilities from ma
 
 ## <a name="education">Education</a>
 
-**Makers Academy** (June - October 2021)
+**Makers Academy** (2021)
 
 <!-- <ol> -->
 Makers is a highly selective coding Bootcamp teaching Full-stack Software Development in 16 weeks. Focussing on Test Driven Development, with an emphasis on pair programming and working with an agile mythology. My experience at Makers taught me independent learning and problem solving with a growth mindset.
